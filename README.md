@@ -5,8 +5,8 @@ Taller 2 para la asignatura COMPUTACION PARALELA Y DISTRIBUIDA de la UTEM semest
 Instalacion de la API:
   - Terner IIS instalado
   - Tener instalado el driver para .NET6: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.10-windows-hosting-bundle-installer
-  - Publicar la aplicacion como carpeta
-  - LLevar al C:\inetpub\wwwroot\{Carpeta de Publicacion}
+  - Ingresar a la carpeta API, donde esta el compilado de la aplicacion y copiar todos los archivos
+  - LLevar el contenido copiado a la ruta C:\inetpub\wwwroot\{Carpeta de Publicacion}
   - probar la URL: {Carpeta de Publicacion}/api/Pokemon?desde=0 
 
 Instalacion del Font-End
@@ -23,6 +23,6 @@ Instalacion del Font-End
 Integrantes
 
   - Patricio Aguirre
-  - Felipe Alvarez
+  - Felipe Jerez
   - Andre Vigneau
   
